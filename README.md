@@ -1,4 +1,8 @@
-# Proyecto Clínica - Acceso a Datos
-* **Autor:** Manuel González Matías
-* **Proyecto Maven:** Importar la carpeta `Tarea00_ManuelGm/Tarea00_ManuelGm` (donde se encuentra el archivo `pom.xml`).
-* **Clase Principal (Main):** `src/main/java/principal/Main.java`
+Proyecto Clínica - Proyecto Intermodular II
+Autor: Manuel González Matías (2º DAM, curso 2026-2027)
+
+Proyecto Maven: PROYECTO_GONZALEZMATIAS_MANUEL
+
+Clase principal esta en --> src/main/java/vista/Main.java
+
+Documentació esta en -->: carpeta docu
